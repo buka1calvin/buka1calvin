@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web design and software development
 - 📫 How to reach me through my social media accounts
+
 IG:@calvin_buka
 
 LinkedIn: @Calvin Bukarani
