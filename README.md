@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on web design and software development
 - 📫 How to reach me through my social media accounts
 IG:@calvin_buka
-Fb:Calvin Bukarani
+
+LinkedIn: @Calvin Bukarani
+
 Gmail:calvinbukarani@gmail.com
 
 
