@@ -1,7 +1,7 @@
 # Hi, I'm Calvin Let's Build Something Great Together💻
-- 👀 I’m interested in web and software development
-- 💞️ I’m looking to collaborate on web design and software development
-- 📫 How to reach me through my social media accounts
+- 👀 I’m a Web and Software Dev Enthusiast
+- 💞️ let's Collaborate on Any Project for either a Web Or Mobile App 
+- 📫 You can Reach me Through My Social Medias ...
 
 
 ## 🌐 Socials:
