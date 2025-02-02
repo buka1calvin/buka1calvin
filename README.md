@@ -1,12 +1,10 @@
 # Hi, I'm Calvin Let's Build Something Amazing Together💻
-- 👀 I’m a Web and Software Dev Enthusiast
+- 👀 I’m a Web and Software Developer Enthusiast
 - 💞️ let's Collaborate on Any Project for either a Web Or Mobile Applications 
-# 📫 You can Reach me Through
-## Email
-Calvinbukarani@gmail.com
-## Telephone
-+250 786 639 348
-# OR
+## 📫 You can Reach me Through
+- Email: Calvinbukarani@gmail.com
+- Telephone: +250 786 639 348
+## OR
 ## 🌐 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-bukarani-19852219a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BukaCalvin) 
 
